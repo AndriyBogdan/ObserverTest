@@ -1,0 +1,11 @@
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\bin\Debug\netcoreapp3.1\ObserverTest.exe
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\bin\Debug\netcoreapp3.1\ObserverTest.deps.json
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\bin\Debug\netcoreapp3.1\ObserverTest.runtimeconfig.json
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\bin\Debug\netcoreapp3.1\ObserverTest.runtimeconfig.dev.json
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\bin\Debug\netcoreapp3.1\ObserverTest.dll
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\bin\Debug\netcoreapp3.1\ObserverTest.pdb
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\obj\Debug\netcoreapp3.1\ObserverTest.csprojAssemblyReference.cache
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\obj\Debug\netcoreapp3.1\ObserverTest.AssemblyInfoInputs.cache
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\obj\Debug\netcoreapp3.1\ObserverTest.AssemblyInfo.cs
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\obj\Debug\netcoreapp3.1\ObserverTest.dll
+C:\Users\dahak\source\repos\ObserverTest\ObserverTest\obj\Debug\netcoreapp3.1\ObserverTest.pdb
